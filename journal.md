@@ -5,3 +5,7 @@ I think ms.whitby explained the instructions really good.
 I did not have any problems while following the steps.
 # September 18, 2024
 This is a free week.
+# October 15, 2024
+We can improve our promblem solving skills by studyinh and learning new things.It can help you promblem solving skills.It makes you more creative while working on it.
+# October 21, 2024
+AI helps improve efficiency and innovation in industries by helping the worker making things easier and some risks of that are getting hacked.
