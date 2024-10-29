@@ -9,3 +9,5 @@ This is a free week.
 We can improve our promblem solving skills by studyinh and learning new things.It can help you promblem solving skills.It makes you more creative while working on it.
 # October 21, 2024
 AI helps improve efficiency and innovation in industries by helping the worker making things easier and some risks of that are getting hacked.
+# October 21, 2024
+One postive impact i think it will have on the election is making it easier for people to vote and one potential challenge is some people might not know how to work the technolgy
