@@ -11,3 +11,5 @@ We can improve our promblem solving skills by studyinh and learning new things.I
 AI helps improve efficiency and innovation in industries by helping the worker making things easier and some risks of that are getting hacked.
 # October 21, 2024
 One postive impact i think it will have on the election is making it easier for people to vote and one potential challenge is some people might not know how to work the technolgy
+# November 1, 2024
+i think Computer science is invloved with the election because they put in the votes and it keeps rank of who has more votes and what the people are doing.
