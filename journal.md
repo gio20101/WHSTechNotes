@@ -22,3 +22,5 @@ The advancements in computer science and technology play a role in addressing NB
 One thing that excites me in a VR headset is the fact that its almost like living in a whole other world since you can move and interact with alot of things. It can innovate my field of interest by allowing me to play games.One ethical consideration that might need to be addressed as VR evolves is people using it more than real life.
 # December 9, 2024
 The term Brain rot means funny or werid words my generation tends to use as a joke in my opinion.I think digital media has had a postive impact on my well being because it has helped me interact with friends.They connect to my exprience in 2024 because ive heard them alot while on my phone so they are very recognizable.I think it is possible because all you need to do is not get them mixed up.
+# December 16, 2024
+I am looking foward to christmas break
