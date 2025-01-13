@@ -15,6 +15,10 @@ One postive impact i think it will have on the election is making it easier for 
 i think Computer science is invloved with the election because they put in the votes and it keeps rank of who has more votes and what the people are doing.
 # November 4, 2024
 It is important to protect your personal and sensitive information when publishing online do nobody can take it from you.You can ensure this doesnt happen by not sharing your information with random people.I havent ever shared something online that I thought was too personal
+# January 8, 2025
+I enjoyed learing how to code and i could improve in learning all the comands in coding.I am looking forwards to working with the little robots more often.No not at the moment.
+# January 13, 2025
+I would prepare myself for a career in a rapidly changing job market by expanding my knowledge in that certain feild of work.
 # November 12, 2024
 One event that interest me is the NBA or NFL games.These games use alot of technology and data analysis for example they use data analysis by recording every players stats like each point or assist they get.This shows how data analysis is used in the NBA and NFL.
 The advancements in computer science and technology play a role in addressing NBA and NFL issuses in the future by helping the players stats not get confused or wrong.
