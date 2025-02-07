@@ -28,3 +28,8 @@ One thing that excites me in a VR headset is the fact that its almost like livin
 The term Brain rot means funny or werid words my generation tends to use as a joke in my opinion.I think digital media has had a postive impact on my well being because it has helped me interact with friends.They connect to my exprience in 2024 because ive heard them alot while on my phone so they are very recognizable.I think it is possible because all you need to do is not get them mixed up.
 # December 16, 2024
 I am looking foward to christmas break
+# Journal 8, 2025
+I enjoyed using the robotic cars in our lessons the most.I dont think anything needs to be improved in this class.As we start the new semester i am looking forward to using python.
+# February 3, 2025
+Technology has greatly improved aviation safety by helping pilots navigate, communicate, and avoid dangers. Systems like ADS-B and TCAS track aircraft to prevent collisions, while modern flight computers assist pilots in making safer decisions. Weather radar warns of storms, and AI analyzes flight data to detect risks early. These tools help pilots stay aware and reduce mistakes, making flights safer.
+Technology also improves aircraft maintenance and training. Sensors and data analysis can predict mechanical problems before they happen, preventing failures. Virtual reality helps train pilots and crew for emergencies in a safe way. Cybersecurity protects planes from digital threats, keeping flight systems secure. With these advancements, aviation continues to become safer and more reliable.
