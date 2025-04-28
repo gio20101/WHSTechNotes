@@ -43,6 +43,9 @@ However, slang changes quickly and has different meanings in different cultures,
 Name   |   Flavour   | Occasion   | Price   |
 ---------------------------------------------
 Sally|   Chocolate   | Graduation | $35.00  |
+---------------------------------------------
 Michael|  Vanilla    | Farewell party| $37.00|
+-----------------------------------------------
 Emma   |   Carrot    | Birthday    |  $39.00 |
+----------------------------------------------
 
