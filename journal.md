@@ -39,3 +39,10 @@ To store and process the data, I would use databases for past stats and fast dat
 # February 24, 2025
 Technology can help educators and professionals keep up with youth slang using AI tools, slang dictionaries, and language apps. AI chatbots and translation tools can help bridge communication gaps, while social media tracking can show how slang evolves.
 However, slang changes quickly and has different meanings in different cultures, which can cause misunderstandings. While teaching slang in schools could help, it’s important to stay professional. Using technology wisely can help adults connect with youth while avoiding confusion or miscommunication.
+# April 28, 2025
+Name   |   Flavour   | Occasion   | Price   |
+---------------------------------------------
+Sally|   Chocolate   | Graduation | $35.00  |
+Michael|  Vanilla    | Farewell party| $37.00|
+Emma   |   Carrot    | Birthday    |  $39.00 |
+
