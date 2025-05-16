@@ -60,4 +60,5 @@ Michael|  Vanilla    | Farewell party| $37.00|
 -----------------------------------------------
 Emma   |   Carrot    | Birthday    |  $39.00 |
 ----------------------------------------------
-
+# May 5, 2025
+I dont think that 100 men could beat 1 glorilla since glorillas are just so strong.I also dont think that it is responsible to make this trend go viral because some people might actually try and fight a glorilla and get ingured or worse.I think that this shows that the internet could spread dumb ideas just for entertainment.
