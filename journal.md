@@ -62,3 +62,7 @@ Emma   |   Carrot    | Birthday    |  $39.00 |
 ----------------------------------------------
 # May 5, 2025
 I dont think that 100 men could beat 1 glorilla since glorillas are just so strong.I also dont think that it is responsible to make this trend go viral because some people might actually try and fight a glorilla and get ingured or worse.I think that this shows that the internet could spread dumb ideas just for entertainment.
+# May 12, 2025
+The students do it because they want attention but dont think of the negative effects like getting expelled.
+# May 19, 2025
+Yes because im going to be going out alot
